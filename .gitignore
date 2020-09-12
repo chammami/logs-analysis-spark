@@ -2,3 +2,4 @@
 data/
 .idea/
 *.pdf
+.ipynb_checkpoints/
