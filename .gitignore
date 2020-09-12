@@ -1,0 +1,4 @@
+# Ignoring all data related files
+data/
+.idea/
+*.pdf
