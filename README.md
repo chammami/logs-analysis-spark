@@ -1,14 +1,11 @@
 # Logs analysis with Spark
 
-This repository hosts an application project to practice data wrangling and modeling using Apache Spark. 
+This repository hosts a sample project to practice data wrangling and modeling using Apache Spark. 
 
 The main objective of this project is to protect a web server namely [Link](http://www.almhuette-raith.at/) from bot attacks by using a mixed of domain knowledge and Machine Learning techniques.
 
 The project structure is detailed below.
 To reproduce my work, you can follow the steps detailed below.
-
-
-Thank you for considering examining my work and application !
 
 ```bash
 ├── data
